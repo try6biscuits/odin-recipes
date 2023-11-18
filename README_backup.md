@@ -1,0 +1,1 @@
+<!-- The project is a recipes project, where I will have to create a basic website with links, images, and etc. -->
